@@ -3,7 +3,7 @@ This project aims to implement a Java CLI based application to allow people to p
 
 ## Development Phases
 1. Interface and General Functionality (in progress)
-2. Hotseat Functionaility and Testing (not started)
+2. Hotseat Functionality and Testing (not started)
 3. Networking Functionality (not started)
 4. (Optional) Encryption/Security for Network Functionality, Chess Notation Output to Text File, Time Limits (not started)
 
